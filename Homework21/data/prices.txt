@@ -1,4 +1,0 @@
-Pizza,10
-Ice Cream,4
-Soda,1
-Cookie,2
